@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **frontend projects**
 
-- 🌱 I’m currently learning **Javascript, react.js etc.**
+- 🌱 I’m currently learning **Javascript frameworks.**
 
 - 👨‍💻 All of my projects are available at [aishanaaz19.github.io](aishanaaz19.github.io)
 
-- 💬 Ask me about **HTML3, CSS5 and Bootstrap**
+- 💬 Ask me about **HTML3, CSS5 and Javascript**
 
 - 📫 How to reach me **ayeshanaaz396@gmail.com**
 
