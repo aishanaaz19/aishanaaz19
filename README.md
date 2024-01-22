@@ -1,4 +1,4 @@
-![Image Alt text](https://github.com/aishanaaz19/aishanaaz19/blob/main/images/header.png?raw=true)
+![Image Alt text](https://github.com/aishanaaz19/aishanaaz19/blob/main/images/github-header.png?raw=true)
 <h1 align="center">Hi 👋, I'm Aisha Naaz</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/836931/screenshots/4281418/_typing_.gif">
