@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aisha Naaz</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
+<img align="right" alt="Coding" width="450" src="https://assets-v2.lottiefiles.com/a/f2c7b4b4-1180-11ee-a424-ef00b7a877a3/GNbDDkX4b9.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishanaaz19&label=Profile%20views&color=0e75b6&style=flat" alt="aishanaaz19" /> </p>
 
 
