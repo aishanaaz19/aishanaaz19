@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Fullstack Tech Stack**
 
-- 📫 How to reach me [mailto:aishanaaz396@gmail.com]
+- 📫 How to reach me [mailto:aishanaaz396@gmail.com](aishanaaz396@gmail.com)
 
 - ⚡ Visit my Portfolio [https://www.fastfol.io/aishanaaz19]
 
