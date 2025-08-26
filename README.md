@@ -7,17 +7,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishanaaz19&label=Profile%20views&color=0e75b6&style=flat" alt="aishanaaz19" /> </p>
 
 
-- 🔭 I’m currently working on **react projects**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **reactjs, nextjs etc.**
+- 🌱 I’m currently learning **Reactjs, Nextjs etc.**
 
 - 👨‍💻 All of my projects are available at [aishanaaz19.github.io](aishanaaz19.github.io)
 
-- 💬 Ask me about **frontend tech stack**
+- 💬 Ask me about **Fullstack Tech Stack**
 
-- 📫 How to reach me **ayeshanaaz396@gmail.com**
+- 📫 How to reach me [mailto:aishanaaz396@gmail.com]
 
-- ⚡ Fun fact **I don't talk much**
+- ⚡ Visit my Portfolio [https://www.fastfol.io/aishanaaz19]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
