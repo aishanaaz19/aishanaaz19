@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nextjs etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aishanaaz19/aishanaaz19]
+- 👨‍💻 All of my projects are available at [https://github.com/aishanaaz19]
 
 - 💬 Ask me about **Fullstack Tech Stack**
 
